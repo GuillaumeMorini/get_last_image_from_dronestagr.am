@@ -1,0 +1,179 @@
+{
+  "status": "ok",
+  "count": 1,
+  "count_total": 32401,
+  "pages": 32401,
+  "posts": [
+    {
+      "id": 90048,
+      "type": "post",
+      "slug": "cambodia-6",
+      "url": "http:\/\/www.dronestagr.am\/cambodia-6\/",
+      "status": "publish",
+      "title": "Cambodia",
+      "title_plain": "Cambodia",
+      "content": "<p>Temple from Kompong Cham\n\n\n<div id=\"mapp0_layout\" class=\"mapp-layout mapp-align-default\" style=\"width: 640px; border: 1px solid #000000; \">\n<div id=\"mapp0_links\" class=\"mapp-map-links\"><\/div>\n<div id=\"mapp0_dialog\" class=\"mapp-dialog\"><\/div>\n<div id=\"mapp0\" class=\"mapp-canvas\" style=\"width: 100%; height: 480px; \"><\/div>\n<div id=\"mapp0_poi_list\" class=\"mapp-poi-list\" style=\"width:100%\"><\/div>\n<div id=\"mapp0_directions\" class=\"mapp-directions\" style=\"width:100%\"><\/div>\n<\/div>\n<ul class=\"wpuf_customs\"><li><label>City<\/label> : Kompong Cham<\/li><li><label>Street<\/label> : temple<\/li><li><label>County or State<\/label> : Cambodia<\/li><li><label>Country<\/label> : Cambodia<\/li><ul>",
+      "excerpt": "<p>Temple from Kompong Cham City : Kompong ChamStreet : templeCounty or State : CambodiaCountry : Cambodia<\/p>\n",
+      "date": "2016-02-11 14:54:09",
+      "modified": "2016-02-11 14:54:09",
+      "categories": [
+        {
+          "id": 1661,
+          "slug": "photo",
+          "title": "Photo",
+          "description": "",
+          "parent": 0,
+          "post_count": 22703
+        },
+        {
+          "id": 7,
+          "slug": "pro",
+          "title": "Pro",
+          "description": "",
+          "parent": 0,
+          "post_count": 2724
+        }
+      ],
+      "tags": [
+        {
+          "id": 20143,
+          "slug": "bouda",
+          "title": "bouda",
+          "description": "",
+          "post_count": 1
+        },
+        {
+          "id": 18141,
+          "slug": "drone-effect",
+          "title": "Drone Effect",
+          "description": "",
+          "post_count": 8
+        },
+        {
+          "id": 2475,
+          "slug": "temple",
+          "title": "Temple",
+          "description": "",
+          "post_count": 35
+        }
+      ],
+      "author": {
+        "id": 8093,
+        "slug": "drone-effect",
+        "name": "Drone effect",
+        "first_name": "",
+        "last_name": "",
+        "nickname": "Drone effect",
+        "url": "http:\/\/www.droneeffect.fr",
+        "description": "Drone Effect est une soci\u00e9t\u00e9 bas\u00e9e proche d'Avignon et sp\u00e9cialis\u00e9e dans la prise de vue a\u00e9rienne par drone de grande qualit\u00e9.\r\n\r\nPHOTOGRAPHIE AERIENNE - VID\u00c9O AERIENNE - FILM INSTITUTIONEL \r\n\r\nNous proposons nos services aux soci\u00e9t\u00e9s de production d\u00e9sirant int\u00e9grer des images a\u00e9riennes dans leurs projets de :\r\n\r\n\u00b7        films publicitaires\r\n\u00b7        films d\u2019entreprises\r\n\u00b7        s\u00e9ries fictions\r\n\u00b7        films pour la t\u00e9l\u00e9vision et le cin\u00e9ma\r\n\u00b7        reportages et documentaires\r\n.        communication des entreprises\r\n.        communication des villes\r\n.        vente immobili\u00e8re\r\n.        promotion du patrimoine\r\n.        visite sur audio et vid\u00e9o guide\r\n.        prise de vue au sol  \r\n\r\nDrone effect intervient en France et \u00e0 l'\u00e9tranger.\r\n\r\nwww.droneeffect.fr\r\nwww.facebook.com\/Droneeffect.fr\r\n\r\nAERIAL PHOTOGRAPHY - AERIAL VIDEO - FILM INSTITUTIONAL\r\n\r\nWe offer our services to production companies wishing to integrate aerial imagery into their projects :\r\n\r\n\u00b7 Commercials\r\n\u00b7 Business movies\r\n\u00b7 Fiction series\r\n\u00b7 Films for television and cinema\r\n\u00b7 Reports and documentaries\r\n. Business communications\r\n. Communication cities\r\n. property sale\r\n. promotion of heritage\r\n. audio and video on tour guide\r\n. Shooting Ground"
+      },
+      "comments": [],
+      "attachments": [],
+      "comment_count": 0,
+      "comment_status": "open",
+      "thumbnail": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-150x150.jpg",
+      "custom_fields": {
+        "views": [
+          "28"
+        ],
+        "likes": [
+          "0"
+        ],
+        "favorites": [
+          "0"
+        ],
+        "cf_City": [
+          "Kompong Cham"
+        ],
+        "cf_Street": [
+          "temple"
+        ],
+        "cf_County": [
+          "Cambodia"
+        ],
+        "cf_Country": [
+          "Cambodia"
+        ],
+        "sort_drone": [
+          "dji-phantom-3-professional"
+        ]
+      },
+      "thumbnail_size": "post-thumbnail",
+      "thumbnail_images": {
+        "full": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12.jpg",
+          "width": 1761,
+          "height": 1013
+        },
+        "thumbnail": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-150x150.jpg",
+          "width": 150,
+          "height": 150
+        },
+        "medium": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-300x173.jpg",
+          "width": 300,
+          "height": 173
+        },
+        "large": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-1024x589.jpg",
+          "width": 1024,
+          "height": 589
+        },
+        "rss-image": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-200x115.jpg",
+          "width": 200,
+          "height": 115
+        },
+        "post-thumbnail": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-150x150.jpg",
+          "width": 150,
+          "height": 150
+        },
+        "custom-small": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-160x90.jpg",
+          "width": 160,
+          "height": 90
+        },
+        "custom-medium": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-320x180.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "custom-large": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-640x360.jpg",
+          "width": 640,
+          "height": 360
+        },
+        "custom-full": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-960x540.jpg",
+          "width": 960,
+          "height": 540
+        },
+        "custom-mega": {
+          "url": "http:\/\/www.dronestagr.am\/wp-content\/uploads\/2016\/02\/Temple-12-1200x674.jpg",
+          "width": 1200,
+          "height": 674
+        }
+      },
+      "taxonomy_drone": [
+        {
+          "id": 11388,
+          "slug": "dji-phantom-3-professional",
+          "title": "DJI Phantom 3 Professional",
+          "description": "",
+          "post_count": 2698
+        }
+      ],
+      "taxonomy_camera": [
+        {
+          "id": 11391,
+          "slug": "dji-phantom-3-professional",
+          "title": "DJI Phantom 3 Professional",
+          "description": "",
+          "post_count": 2770
+        }
+      ]
+    }
+  ]
+}
